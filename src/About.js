@@ -3,29 +3,34 @@ import React from "react";
 const About = () => {
   const teamMembers = [
     {
-      name: "Manoj",
-      role: "Team Leader",
-      description: "Leads the vision and strategy for UrbanFlux AI",
+      name: "Manoj D",
+      role: "Project Lead",
+      description: "Leads project strategy, coordination, and delivery",
     },
     {
-      name: "Mohammad Bashir",
-      role: "Integrator",
-      description: "Ensures seamless integration of all system components",
+      name: "Mohamed Bashid J",
+      role: "Integration Engineer",
+      description: "Ensures seamless integration of system components",
     },
     {
-      name: "Rishikumaar",
-      role: "Front-End Leader & Developer",
-      description: "Designs and develops the user interface and experience",
+      name: "Rishikumaaar R",
+      role: "Front-End Developer",
+      description: "Designs and implements the user interface and experience",
     },
     {
-      name: "Darshan",
+      name: "Sridharshan M K",
       role: "Back-End Developer",
-      description: "Builds robust server-side architecture and APIs",
+      description: "Builds server-side architecture and APIs",
     },
     {
-      name: "Lakshmi Narayanan",
-      role: "AI Fine-Tuner",
-      description: "Optimizes machine learning models for precision",
+      name: "Lakshminarayana R",
+      role: "AI/ML Engineer",
+      description: "Develops and fine-tunes machine learning models",
+    },
+    {
+      name: "Thamilkumaran G",
+      role: "Simulation & Optimization Engineer",
+      description: "Designs simulations and optimization algorithms",
     },
   ];
 
